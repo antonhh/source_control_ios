@@ -15,6 +15,7 @@ struct ContentView: View {
     }
     
     let example = "example"
+    //hej 
 }
 //Hello
 
