@@ -13,6 +13,8 @@ struct ContentView: View {
         Text("Hello, World!")
             .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
+    
+    let example = "example"
 }
 //Hello
 
